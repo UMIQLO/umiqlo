@@ -1,0 +1,9 @@
+Origin: UMIQLO's Repo
+Label: UMIQLO's Repo
+Suite: stable
+Version: 1.0
+Codename: UMIQLO
+Architectures: iphoneos-arm
+Components: main
+Description: UMIQLO's Cydia Repo
+MD5Sum:
