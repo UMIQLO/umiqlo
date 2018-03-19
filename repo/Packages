@@ -1,32 +1,23 @@
-Package: com.smokin1337.smartlpm
-Version: 1.0.6
+Package: theme.weiphone.jc.deamon9
+Version: 1.0-4
 Architecture: iphoneos-arm
-Maintainer: smokin1337
-Installed-Size: 258
-Depends: mobilesubstrate
-Filename: repo/debs/smartlpm/com.umiqlo.smartlpm_1.0.6_iphoneos-arm.deb
-Size: 15672
-MD5sum: 38e2afc4afafb7fc797cbef7ad59acf8
-SHA1: 68517a1f40ae0f541ed7f42659ead64bd8db55bd
-SHA256: 1389b2b972fcd40f5d4db12f1e7c6df943a5ae83c23422cb5e573382de4b05ba
-Section: Tweaks
-Description: A smarter low power mode. Turn low power mode on automatically at the battery level you specify. Turn on low power mode while device is locked.
-Author: smokin1337
-Name: SmartLPM
-
-Package: com.umiqlo.smartlpm
-Version: 1.0.6
-Architecture: iphoneos-arm
-Maintainer: UMIQLO
-Installed-Size: 258
-Depends: mobilesubstrate
-Filename: repo/debs/smartlpm/com.umiqlo.smartlpm_1.0.6_iphoneos-arm-test.deb
-Size: 15660
-MD5sum: 1f62da9b8f99cc2cdc982ce751353b50
-SHA1: 9fca66ba108458754bc85e79fe6467a5a5719105
-SHA256: bb298d4ed1ea24106eb177fbd09a185b34eaf8a206007cf81d98ca96cd083fd4
-Section: Tweaks
-Description: Test Exported SmartLPM
-Author: UMIQLO
-Name: SmartLPM -Test Exported-
+Essential: no
+Maintainer: Feng.com <support@office.feng.com>
+Installed-Size: 31024
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
+Filename: /repo/debs/deamon9_repack.deb
+Size: 2447714
+MD5sum: e81ce6f1283230fa1a56b9c3993c86d1
+SHA1: 612b2c764f103b380c11f803a65f7c70acb2edce
+SHA256: 41932bc32d68c21785cc52dea64375d9d703d609702718d15a13807294ff4b5e
+Section: [威锋源-主题美化]
+Priority: standard
+Homepage: http://apt.so/index.php?r=read&id=5650af7de96346bf5c8b45c6
+Description: Deamon 9 主题，多元化一体。
+Tag: role::enduser
+Author: Rain. <1105100295@qq.com>
+Depiction: http://apt.so/index.php?r=cydia&id=5650af7de96346bf5c8b45c6
+Icon: file:///Library/PreferenceBundles/Deamon9Prefs.bundle/Deamon9.png
+Name: Deamon 9
+Sponsor: Feng.com <http://www.feng.com>
 
