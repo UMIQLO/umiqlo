@@ -5,11 +5,11 @@ Essential: no
 Maintainer: Feng.com <support@office.feng.com>
 Installed-Size: 31024
 Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
-Filename: /repo/debs/deamon9_repack.deb
-Size: 2447714
-MD5sum: e81ce6f1283230fa1a56b9c3993c86d1
-SHA1: 612b2c764f103b380c11f803a65f7c70acb2edce
-SHA256: 41932bc32d68c21785cc52dea64375d9d703d609702718d15a13807294ff4b5e
+Filename: /home/david/Desktop/cydia/deamon9_repack.deb
+Size: 2446834
+MD5sum: 40df2d1ddee92a4b63e23aaabb3846ea
+SHA1: 0495016978d16338b4c14f61579f4de7fd3eaa0c
+SHA256: 9a498842b4a526ae9cdbe5ab15e2d2aeeb00d5d99201f263fc7f35189795a986
 Section: [威锋源-主题美化]
 Priority: standard
 Homepage: http://apt.so/index.php?r=read&id=5650af7de96346bf5c8b45c6
