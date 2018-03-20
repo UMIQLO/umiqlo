@@ -1,36 +1,36 @@
 Package: theme.umiqlo.deamon11
+Version: 1.994.7.8-3
+Architecture: iphoneos-arm
+Maintainer: UMIQLO <umiqlo.moe@gmail.com>
+Installed-Size: 31024
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
+Filename: debs/theme.umiqlo.deamon11_1.994.7.8-3_iphoneos-arm.deb
+Size: 1604958
+MD5sum: f9df965b02e2c2d55935fbca3c7ffe0c
+SHA1: 3d04a3e7b43a7bc41877de01d0d29aa60c45564a
+SHA256: 2bf4088a5d92ce1c5bf1472939bbd1f4f8f854e884a3f83c7785fe563819cd45
+Section: Themes
+Homepage: https://umiqlo.github.io
+Description: Deamon 11 Theme
+Author: UMIQLO <umiqlo.moe@gmail.com>
+Depiction: https://umiqlo.github.io/depics/deamon11.html
+Name: Deamon 11
+
+Package: theme.umiqlo.deamon9
 Version: 1.994.7.8-2
 Architecture: iphoneos-arm
 Maintainer: UMIQLO <umiqlo.moe@gmail.com>
 Installed-Size: 31024
 Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
-Filename: debs/theme.umiqlo.deamon11_1.994.7.8-2_iphoneos-arm.deb
-Size: 1607734
-MD5sum: 76cb0b7da4157b93a56abbdea0bed1de
-SHA1: ba0b002a736e50f130f1c61507efcb4ddd0cfb57
-SHA256: 15f3e44c2a3dd78acdabe8480d09c905c940cb2e74aff833a51ef1bbcaf4bcbf
-Section: Themes
-Homepage: https://umiqlo.github.io
-Description: Deamon 11 Theme
-Author: UMIQLO <umiqlo.moe@gmail.com>
-Depiction: https://umiqlo.github.io
-Name: Deamon 11
-
-Package: theme.umiqlo.deamon9
-Version: 1.994.7.8
-Architecture: iphoneos-arm
-Maintainer: UMIQLO <umiqlo.moe@gmail.com>
-Installed-Size: 31024
-Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
-Filename: debs/theme.umiqlo.deamon9_1.994.7.8_iphoneos-arm.deb
-Size: 2446658
-MD5sum: a10d45341ff91ad23dd02e95a5c99f13
-SHA1: 0e6c53a3df91c7182f3c4e158e7787fce35c946e
-SHA256: b6957f4cac7e08f872ae47f85c828e318a559ef31b40506ac657c86c0d156db0
+Filename: debs/theme.umiqlo.deamon9_1.994.7.8-2_iphoneos-arm.deb
+Size: 2450866
+MD5sum: fab844249c8c30488e5287817548abf1
+SHA1: 02fe01c5906b3e71120a47727fc1f24d172bb4ca
+SHA256: 5a231c5c47a59401891aef882e21d1593c66c7b6f3b679d620a15e1322200a4b
 Section: Themes
 Homepage: https://umiqlo.github.io
 Description: Deamon 9 Theme
 Author: Rain. <1105100295@qq.com>
-Depiction: https://umiqlo.github.io
+Depiction: https://umiqlo.github.io/depics/deamon9.html
 Name: Deamon 9
 
