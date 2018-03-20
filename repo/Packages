@@ -1,11 +1,10 @@
 Package: theme.weiphone.jc.deamon9
 Version: 1.0-4
 Architecture: iphoneos-arm
-Essential: no
 Maintainer: Feng.com <support@office.feng.com>
 Installed-Size: 31024
 Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
-Filename: /home/david/Desktop/cydia/deamon9_repack.deb
+Filename: debs/deamon9_repack.deb
 Size: 2446834
 MD5sum: 40df2d1ddee92a4b63e23aaabb3846ea
 SHA1: 0495016978d16338b4c14f61579f4de7fd3eaa0c
@@ -20,4 +19,3 @@ Depiction: http://apt.so/index.php?r=cydia&id=5650af7de96346bf5c8b45c6
 Icon: file:///Library/PreferenceBundles/Deamon9Prefs.bundle/Deamon9.png
 Name: Deamon 9
 Sponsor: Feng.com <http://www.feng.com>
-
