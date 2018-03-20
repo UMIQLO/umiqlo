@@ -1,3 +1,21 @@
+Package: theme.umiqlo.deamon11
+Version: 1.994.7.8
+Architecture: iphoneos-arm
+Maintainer: UMIQLO <umiqlo.moe@gmail.com>
+Installed-Size: 31024
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
+Filename: debs/deamon11_umiqlo.deb
+Size: 2393988
+MD5sum: c202be27a369ea17b9848b5485c77163
+SHA1: 66b0b83817e595e71ba8f42f2320c90a145fed61
+SHA256: 8cebde7d5b75100b7b68e76d0d713c7a8f39fb9e415a5f2236da38e89d221c5c
+Section: Themes
+Homepage: https://umiqlo.github.io
+Description: Deamon 11 Theme
+Author: UMIQLO <umiqlo.moe@gmail.com>
+Depiction: https://umiqlo.github.io
+Name: Deamon 11
+
 Package: theme.umiqlo.deamon9
 Version: 1.994.7.8
 Architecture: iphoneos-arm
